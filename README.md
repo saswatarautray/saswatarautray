@@ -3,8 +3,8 @@ Hi 👋 My name is Saswata Rautray
 
 * 🌍  I'm a Data Scientist based in the United States
 * ✉️  You can contact me at [saswata.rautray@okstate.edu](mailto:saswata.rautray@okstate.edu)
-* 🧠  I'm currently learning Data Science, MLOps and Data engineering practices
-* 🤝  I'm open to collaborating on Machine Learning and NLP projects.
+* 🧠  I'm enjoy learning new techinques in Data Science, MLOps and Data engineering.
+* 🤝  I'm open to collaborating on Data Engineering, Machine Learning and NLP projects.
 * ⚡  Happy to connect on Linkedin!
 
 ### Skills
