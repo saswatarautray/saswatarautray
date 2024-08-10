@@ -1,5 +1,5 @@
 # Hi 👋 My name is Saswata Rautray
-I'm a Data Science Engineer with 4+ years of experience in solving business problems by understanding clients’ data landscape and using machine learning, data engineering, query optimization, modeling, & visualization with technology across multiple tools. I'm open to collaborating on Data Engineering, Machine Learning and MLOps projects.
+I'm a Data Science Engineer with 5+ years of experience in solving business problems by understanding clients’ data landscape and using machine learning, data engineering, query optimization, modeling, & visualization with technology across multiple tools. I'm open to collaborating on Data Engineering, Machine Learning and MLOps projects.
 
 ## 🌐 Socials:
 * ✉️  Contact me at [saswata.rautray@gmail.com](mailto:saswata.rautray@gmail.com)
